@@ -1,0 +1,19 @@
+{
+  "name": "facultyapi",
+  "version": "1.0.0",
+  "description": "faculty api hosted on heroku",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Hassan Raza",
+  "license": "ISC"
+}
